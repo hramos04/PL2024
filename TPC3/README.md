@@ -1,4 +1,4 @@
-# TPC2: Conversor de MarkDown para HTML
+# TPC3: Somador on/off
 
 ## Aluno
 
